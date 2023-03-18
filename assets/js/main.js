@@ -5,7 +5,7 @@
     Preloader
     ======================= */
 	window.onload = function () {
-//         window.setTimeout(fadeout, 300);
+         window.setTimeout(fadeout, 300);
 	}
 
 	function fadeout() {
